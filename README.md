@@ -1,2 +1,2 @@
 # learning
-for learning
+mainly for learning purpose
